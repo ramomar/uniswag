@@ -12,13 +12,13 @@
 
 \#uniswag was a Google Chrome extension developed to overcome some quirks of my university course management system.
 
-##  Features 🤩
+##  Features
 - [Export course assignments to Todoist.](https://user-images.githubusercontent.com/10622989/60761441-e7cdd480-a01e-11e9-9018-57db46925e10.gif)
 - [Folder creation in Google Drive for every course.](https://user-images.githubusercontent.com/10622989/60761444-f61bf080-a01e-11e9-9a84-600e2e8b26e9.gif)
 - Saves your enrollment so you don't have to type it every time you want to log in.
 - Keyboard shortcut.
 
-## Project structure 📦
+## Project structure
 
 The project is contained in a couple of repos.
 
@@ -28,8 +28,8 @@ The project is contained in a couple of repos.
 | [Uniswag Backend](https://github.com/ramomar/uniswag-backend) | Backend for uniswag written in Scala using the Skinny Micro web framework. |
 
 
-## Usage 🤔
-1. Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/uniswag/mogfppbobkadpdmpjdpcgmajlcffiemn) and login (don't forget to use the keyboard shortcut! 😌).
+## Usage
+1. Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/uniswag/mogfppbobkadpdmpjdpcgmajlcffiemn) and login (don't forget to use the keyboard shortcut!).
 2. Navigate to either your schedule or your course page.
 3. There should be a button (_Crear carpetas en Drive_ or _Exportar a Todoist_).
 4. Click on that button.
@@ -37,9 +37,9 @@ The project is contained in a couple of repos.
 6. Allow permissions.
 7. The app should redirect you either to your Google Drive or your Todoist and you should see the newly created items.
 
-## Chrome Web Store 🛍️
+## Chrome Web Store
 
-### Description 🙈
+### Description
 
 Acceso directo al SIASE pero con swag. @ramomarr
 
@@ -49,7 +49,7 @@ Acceso directo al SIASE pero con swag. @ramomarr
 - Cmd + Shift + U para los usuarios Mac.
 
 
-####\#uniswag es
+####uniswag es
 
 - rápido: tu matricula se queda guardada.
 
@@ -57,7 +57,7 @@ Acceso directo al SIASE pero con swag. @ramomarr
 
 - sencillo: solo dos clics.
 
-####\#uniswag
+####uniswag
 
 - cuida tus dedos y del síndrome del túnel carpiano.
 
@@ -69,7 +69,7 @@ Acceso directo al SIASE pero con swag. @ramomarr
 
 - funciona con todas las facultades. Cuentas de maestros* y estudiantes, oyentes y suspendidos, y hasta le funciona a tu hermano noob de prepa. TODOS.
 
-####\#uniswag NO hace, NO HACE, NO HACE, NO HACE
+####uniswag NO hace, NO HACE, NO HACE, NO HACE
 
 - cambiar tus segundas (lamentablemente)
 
@@ -81,14 +81,14 @@ Acceso directo al SIASE pero con swag. @ramomarr
 
 REPITO LO DE ARRIBA NO LO HACE
 
-####\#uniswag funciona con
+####uniswag funciona con
 
 - WINDOWS
 - MAC
 - LINUX
 - De echo debería de funcionar en cualquier plataforma que pueda correr Chrome/Chromium o cualquier versión hipster que estés usando (por favor hazme saber si tienes fallas)
 
-####\#uniswag IT'S FREE
+####uniswag IT'S FREE
 
 Cualquier cosa/duda/comentario/queja estoy en @ramomarr
 
