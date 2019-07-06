@@ -43,13 +43,13 @@ The project is contained in a couple of repos.
 
 Acceso directo al SIASE pero con swag. @ramomarr
 
-####Atajos de teclado:
+**Atajos de teclado:**
 
 - Ctrl + Shift + U  para los usuarios Windows/Linux.
 - Cmd + Shift + U para los usuarios Mac.
 
 
-####uniswag es
+**\#uniswag es**
 
 - rápido: tu matricula se queda guardada.
 
@@ -57,7 +57,7 @@ Acceso directo al SIASE pero con swag. @ramomarr
 
 - sencillo: solo dos clics.
 
-####uniswag
+**\#uniswag**
 
 - cuida tus dedos y del síndrome del túnel carpiano.
 
@@ -69,7 +69,7 @@ Acceso directo al SIASE pero con swag. @ramomarr
 
 - funciona con todas las facultades. Cuentas de maestros* y estudiantes, oyentes y suspendidos, y hasta le funciona a tu hermano noob de prepa. TODOS.
 
-####uniswag NO hace, NO HACE, NO HACE, NO HACE
+**\#uniswag NO hace, NO HACE, NO HACE, NO HACE**
 
 - cambiar tus segundas (lamentablemente)
 
@@ -81,14 +81,14 @@ Acceso directo al SIASE pero con swag. @ramomarr
 
 REPITO LO DE ARRIBA NO LO HACE
 
-####uniswag funciona con
+**\#uniswag funciona con**
 
 - WINDOWS
 - MAC
 - LINUX
 - De echo debería de funcionar en cualquier plataforma que pueda correr Chrome/Chromium o cualquier versión hipster que estés usando (por favor hazme saber si tienes fallas)
 
-####uniswag IT'S FREE
+**\#uniswag IT'S FREE**
 
 Cualquier cosa/duda/comentario/queja estoy en @ramomarr
 
