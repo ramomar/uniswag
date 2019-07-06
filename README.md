@@ -1,4 +1,4 @@
-# \#uniswag
+# Uniswag
 
 <p align="center">
    <img width="420" src="https://user-images.githubusercontent.com/10622989/60761446-06cc6680-a01f-11e9-8d52-b943800da748.png">
@@ -10,7 +10,7 @@
    <img width="200" alt="Google Drive integration" src="https://user-images.githubusercontent.com/10622989/60761444-f61bf080-a01e-11e9-9a84-600e2e8b26e9.gif">
 </p>
 
-\#uniswag is a Google Chrome extension developed to overcome some quirks of my university course management system.
+Uniswag is a Google Chrome extension developed to overcome some quirks of my university course management system.
 
 ##  Features
 - [Export course assignments to Todoist.](https://user-images.githubusercontent.com/10622989/60761441-e7cdd480-a01e-11e9-9018-57db46925e10.gif)
