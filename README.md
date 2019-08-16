@@ -86,7 +86,7 @@ REPITO LO DE ARRIBA NO LO HACE
 - WINDOWS
 - MAC
 - LINUX
-- De echo debería de funcionar en cualquier plataforma que pueda correr Chrome/Chromium o cualquier versión hipster que estés usando (por favor hazme saber si tienes fallas)
+- De hecho debería de funcionar en cualquier plataforma que pueda correr Chrome/Chromium o cualquier versión hipster que estés usando (por favor hazme saber si tienes fallas)
 
 **\#uniswag IT'S FREE**
 
